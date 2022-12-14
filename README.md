@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_bhayani_0601) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishbhayani)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krish_Bhayani_) 
 
-##🤩🤩
+## 🤩🤩
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=KrishBhayani&label=Profile%20Views&color=12&icon=7&pretty=false" />
 </a>
