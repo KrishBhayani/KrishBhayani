@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently working on Python 🐍 <br>👯 I’m looking to collaborate on Web projecct<br>🤝 I’m looking for help with Swift<br>🌱 I’m currently learning Mobile Application Devlopment With Flutter<br>💬 Ask me about Web Designing
+☞ 🔭 I’m currently working on Python 🐍 <br>☞ 👯 I’m looking to collaborate on Web projecct<br>☞ 🤝 I’m looking for help with Swift<br>☞ 🌱 I’m currently learning Mobile Application Devlopment With Flutter<br>☞ 💬 Ask me about Web Designing
 
 
 ## 🌐 Socials:
