@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_patel_0601) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-bhayani-8860a9234)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krish_Bhayani_) 
-[![Quora](https://qph.cf2.quoracdn.net/main-qimg-3262a49a89630eac46439bf4729665ea)](https://www.quora.com/profile/Krish-Bhayani-2)
+[Quora](https://www.quora.com/profile/Krish-Bhayani-2)
 
 ## 🤩🤩
 <a href="https://visitcount.itsvg.in">
